@@ -2,8 +2,8 @@
 
 Two .NET 8 console applications implementing industry-standard RSA signature operations for REST API authentication:
 
-- **Signer.exe**: Client-side tool that signs API requests using RSA private keys
-- **Verifier.exe**: Server-side tool that verifies API signatures using RSA public keys
+- **Signer.exe**: Tool that signs API requests using RSA private keys
+- **Verifier.exe**: Tool that verifies API signatures using RSA public keys
 
 ## Quick Start
 
