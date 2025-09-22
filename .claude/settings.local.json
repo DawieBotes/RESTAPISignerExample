@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe\" RESTAPISignerExample.sln /p:Configuration=Release)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Program Files (x86)/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
