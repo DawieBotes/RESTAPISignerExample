@@ -1,0 +1,12 @@
+{
+  "userId": 123,
+  "action": "transfer",
+  "amount": 500.00,
+  "currency": "USD",
+  "destination": "account-456",
+  "timestamp": "2024-01-15T10:30:00Z",
+  "metadata": {
+    "reference": "TXN-001",
+    "description": "Payment for services"
+  }
+}
